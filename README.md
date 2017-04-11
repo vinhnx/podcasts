@@ -2,6 +2,8 @@
 
 My podcast collection (opml file format). Exported from Overcast.
 
+Feel free to import your podcast app of choice. :rocket:
+
 ```xml
 <?xml version="1.0"?>
 <opml version="1.0">
